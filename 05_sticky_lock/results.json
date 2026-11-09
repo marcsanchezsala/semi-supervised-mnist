@@ -1,0 +1,78 @@
+{
+  "pl": [
+    {
+      "test_last": 27.879998087882996,
+      "best_val_err": 28.600001335144043,
+      "seconds": 118.91874802000001,
+      "peak_mb": 1051.3486328125,
+      "coverage": NaN,
+      "precision": NaN,
+      "steps_last_epoch": 230,
+      "seed": 42,
+      "mode": "pl",
+      "test_val_sel": 27.559998631477356
+    },
+    {
+      "test_last": 41.88999831676483,
+      "best_val_err": 40.00000059604645,
+      "seconds": 105.43231303499999,
+      "peak_mb": 1066.51318359375,
+      "coverage": NaN,
+      "precision": NaN,
+      "steps_last_epoch": 230,
+      "seed": 43,
+      "mode": "pl",
+      "test_val_sel": 39.08999860286713
+    },
+    {
+      "test_last": 37.43000030517578,
+      "best_val_err": 36.900001764297485,
+      "seconds": 105.24953244800008,
+      "peak_mb": 1067.2578125,
+      "coverage": NaN,
+      "precision": NaN,
+      "steps_last_epoch": 230,
+      "seed": 44,
+      "mode": "pl",
+      "test_val_sel": 37.1099978685379
+    }
+  ],
+  "lock": [
+    {
+      "test_last": 25.849997997283936,
+      "best_val_err": 27.100002765655518,
+      "seconds": 110.64650889000006,
+      "peak_mb": 1071.65380859375,
+      "coverage": 99.99999403953552,
+      "precision": 72.53518104553223,
+      "steps_last_epoch": 230,
+      "seed": 42,
+      "mode": "lock",
+      "test_val_sel": 25.849997997283936
+    },
+    {
+      "test_last": 38.52999806404114,
+      "best_val_err": 40.00000059604645,
+      "seconds": 110.58641650200002,
+      "peak_mb": 1071.01708984375,
+      "coverage": 99.99999403953552,
+      "precision": 59.35559868812561,
+      "steps_last_epoch": 230,
+      "seed": 43,
+      "mode": "lock",
+      "test_val_sel": 39.08999860286713
+    },
+    {
+      "test_last": 35.47999858856201,
+      "best_val_err": 35.00000238418579,
+      "seconds": 110.718853609,
+      "peak_mb": 1071.7578125,
+      "coverage": 99.99999403953552,
+      "precision": 64.74139094352722,
+      "steps_last_epoch": 230,
+      "seed": 44,
+      "mode": "lock",
+      "test_val_sel": 35.22000014781952
+    }
+  ]
+}

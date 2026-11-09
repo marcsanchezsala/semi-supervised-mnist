@@ -1,0 +1,78 @@
+{
+  "pl": [
+    {
+      "test_last": 29.06000018119812,
+      "best_val_err": 29.80000078678131,
+      "seconds": 118.66840510500003,
+      "peak_mb": 1051.3486328125,
+      "coverage": NaN,
+      "precision": NaN,
+      "steps_last_epoch": 230,
+      "seed": 42,
+      "mode": "pl",
+      "test_val_sel": 28.74000072479248
+    },
+    {
+      "test_last": 41.71999990940094,
+      "best_val_err": 40.00000059604645,
+      "seconds": 104.75178531299991,
+      "peak_mb": 1066.51318359375,
+      "coverage": NaN,
+      "precision": NaN,
+      "steps_last_epoch": 230,
+      "seed": 43,
+      "mode": "pl",
+      "test_val_sel": 39.08999860286713
+    },
+    {
+      "test_last": 36.66999936103821,
+      "best_val_err": 36.30000054836273,
+      "seconds": 104.97856395000008,
+      "peak_mb": 1067.2578125,
+      "coverage": NaN,
+      "precision": NaN,
+      "steps_last_epoch": 230,
+      "seed": 44,
+      "mode": "pl",
+      "test_val_sel": 36.559998989105225
+    }
+  ],
+  "retire": [
+    {
+      "test_last": 44.87999975681305,
+      "best_val_err": 34.40000116825104,
+      "seconds": 92.21962870200002,
+      "peak_mb": 1071.65380859375,
+      "coverage": 99.68796968460083,
+      "precision": 62.15595602989197,
+      "steps_last_epoch": 230,
+      "seed": 42,
+      "mode": "retire",
+      "test_val_sel": 33.229997754096985
+    },
+    {
+      "test_last": 61.03999614715576,
+      "best_val_err": 40.00000059604645,
+      "seconds": 90.71060677200012,
+      "peak_mb": 1071.01318359375,
+      "coverage": 99.67610239982605,
+      "precision": 48.107317090034485,
+      "steps_last_epoch": 230,
+      "seed": 43,
+      "mode": "retire",
+      "test_val_sel": 39.08999860286713
+    },
+    {
+      "test_last": 49.08999800682068,
+      "best_val_err": 37.20000088214874,
+      "seconds": 90.81182250400002,
+      "peak_mb": 1071.75390625,
+      "coverage": 99.67610239982605,
+      "precision": 56.12378716468811,
+      "steps_last_epoch": 230,
+      "seed": 44,
+      "mode": "retire",
+      "test_val_sel": 33.789998292922974
+    }
+  ]
+}
